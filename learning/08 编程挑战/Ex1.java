@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 /*
  * javac -encoding utf-8 Ex1.java
  * java Ex1
